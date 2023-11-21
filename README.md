@@ -36,6 +36,7 @@ This repository contains the code for a custom controller designed for the game 
 - **Bluetooth Module:** Facilitates wireless communication between the controller components and the gaming system.
 - **Accelerometer:** Enables precise tracking of plate tilt, contributing to a more dynamic and engaging gameplay.
 - **Buttons:** Used for initiating various in-game actions.
+- **Pressure sensor:** Used for grab actions.
 - **xInput Library:** Employed to emulate an Xbox controller, ensuring compatibility with the game "Overcooked! 2".
 
 Feel free to explore the codebase to gain insights into the intricacies of each component and their interactions.
