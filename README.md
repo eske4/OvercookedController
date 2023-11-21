@@ -6,7 +6,7 @@ This repository contains the code for a custom controller designed for the game 
 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
-   - Enables unique actions triggered by twisting or shaking the knife.
+   - Enables unique actions triggered by doing a chopping motion with the knife.
 
 2. **Plate Controller:**
    - Responsible for character movement and control within the game.
@@ -14,7 +14,7 @@ This repository contains the code for a custom controller designed for the game 
 
 3. **Receiver:**
    - Serves as a central hub that receives information from both the knife and plate controllers.
-   - Enables seamless wireless communication between the controller components and the gaming system.
+   - Enables Bluetooth communication between the controller components and the gaming system.
 
 ## Code Organization:
 
