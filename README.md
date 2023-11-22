@@ -22,7 +22,7 @@ This repository contains the code for a custom controller designed for the game 
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/Sugar.jpg" width="500">
 
 ## Hardware showcase:
-<img src="https://github.com/eske4/OvercookedController/blob/main/images/Info.jpg" width="1200">
+<img src="https://github.com/eske4/OvercookedController/blob/main/images/Info.jpg" width="900">
 
 ## Code Organization:
 
