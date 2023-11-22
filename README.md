@@ -21,6 +21,9 @@ This repository contains the code for a custom controller designed for the game 
    - Enables Bluetooth communication between the controller components and the gaming system.
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/Sugar.jpg" width="800">
 
+## Hardware showcase:
+<img src="https://github.com/eske4/OvercookedController/blob/main/images/Info.jpg" width="1200">
+
 ## Code Organization:
 
 ### Receiver:
