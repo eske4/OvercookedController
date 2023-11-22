@@ -38,7 +38,7 @@ Below the interaction with the controllers and their hardware can be seen
    - Code Location: [Wireless_Knife_Plate/KnifeWireless](Wireless_Knife_Plate/KnifeWireless)
    - Description: Sends input from the knife controller to the receiver. Includes a pressure sensor for in-game grabbing, two buttons for interactions, and an accelerometer to detect shaking for specific interactions.
 
-## Components Utilized:
+## Components and libraries Utilized:
 
 - **Vibration Module:** Enhances user feedback by incorporating vibration effects into the gaming experience.
 - **Bluetooth Module:** Facilitates wireless communication between the controller components and the gaming system.
