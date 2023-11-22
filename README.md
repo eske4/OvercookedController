@@ -25,10 +25,11 @@ This repository contains the code for a custom controller designed for the game 
 ### Plate Controller:
    - Code Location: [Wireless_Knife_Plate/Plate_Wireless](Wireless_Knife_Plate/Plate_Wireless)
    - Description: Sends thumbstick x-y coordinates through the accelerometer to the receiver. Triggers vibration if tilted too much, signaling that in-game items may be dropped.
-
+     ![](https://github.com/eske4/OvercookedController/blob/main/images/plate.gif)
 ### Knife Controller:
    - Code Location: [Wireless_Knife_Plate/KnifeWireless](Wireless_Knife_Plate/KnifeWireless)
    - Description: Sends input from the knife controller to the receiver. Includes a pressure sensor for in-game grabbing, two buttons for interactions, and an accelerometer to detect shaking for specific interactions.
+     ![](https://github.com/eske4/OvercookedController/blob/main/images/knife.gif)
 
 ## Components Utilized:
 
