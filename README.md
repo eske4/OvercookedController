@@ -4,7 +4,7 @@ This repository contains the code for a custom controller designed for the game 
 
 <img src="https://github.com/eske4/OvercookedController/blob/main/images/AllComponents.jpg" width="800">
 
-## Components:
+## Parts:
 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
