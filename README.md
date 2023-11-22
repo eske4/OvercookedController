@@ -21,6 +21,7 @@ This repository contains the code for a custom controller designed for the game 
 ### Receiver:
    - Code Location: [Receiver/](Receiver/)
    - Description: Code that takes input from the knife and plate controllers.
+     ![](https://github.com/eske4/OvercookedController/blob/main/images/Sugar.jpg)
 
 ### Plate Controller:
    - Code Location: [Wireless_Knife_Plate/Plate_Wireless](Wireless_Knife_Plate/Plate_Wireless)
