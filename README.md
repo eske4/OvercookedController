@@ -2,6 +2,8 @@
 
 This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is ingeniously split into three distinct parts, each serving a specific function:
 
+<img src="https://github.com/eske4/OvercookedController/blob/main/images/AllComponents.jpg" width="300" height="200">
+
 ## Components:
 
 1. **Knife with Buttons:**
