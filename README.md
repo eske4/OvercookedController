@@ -9,7 +9,7 @@ This repository contains the code for a custom controller designed for the game 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
    - Enables unique actions triggered by doing a chopping motion with the knife.
-     ![](https://github.com/eske4/OvercookedController/blob/main/images/knife.gif)
+     <img src="https://github.com/eske4/OvercookedController/blob/main/images/knife.gif" width="800">
 
 2. **Plate Controller:**
    - Responsible for character movement and control within the game.
