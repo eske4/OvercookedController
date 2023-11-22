@@ -45,6 +45,6 @@ Below the interaction with the controllers and their hardware can be seen
 - **Accelerometer:** Enables precise tracking of plate tilt, contributing to a more dynamic and engaging gameplay.
 - **Buttons:** Used for initiating various in-game actions.
 - **Pressure sensor:** Used for grab actions.
-- **xInput Library:** Employed to emulate an Xbox controller, ensuring compatibility with the game "Overcooked! 2".
+- **[xInput Library](https://github.com/dmadison/ArduinoXInput):** Employed to emulate an Xbox controller, ensuring compatibility with the game "Overcooked! 2".
 
 Feel free to explore the codebase to gain insights into the intricacies of each component and their interactions.
