@@ -4,7 +4,7 @@ This repository contains the code for a custom controller designed for the game 
 
 <img src="https://github.com/eske4/OvercookedController/blob/main/images/AllComponents.jpg" width="800">
 
-## Parts:
+## <p align="center">Parts:</p>
 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
@@ -21,24 +21,24 @@ This repository contains the code for a custom controller designed for the game 
    - Enables Bluetooth communication between the controller components and the gaming system.
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/Sugar.jpg" width="500">
 
-## Controllers showcase:
+## <p align="center">Controllers showcase:</p>
 Below the interaction with the controllers and their hardware can be seen
 <img src="https://github.com/eske4/OvercookedController/blob/main/images/Info.jpg" width="700">
 
-## Code Organization:
+## <p align="center">Code Organization:</p>
 
-### Receiver:
+### <p align="center">Receiver:</p>
    - Code Location: [Receiver/](Receiver/)
    - Description: Code that takes input from the knife and plate controllers.
 
-### Plate Controller:
+### <p align="center">Plate Controller:</p>
    - Code Location: [Wireless_Knife_Plate/Plate_Wireless](Wireless_Knife_Plate/Plate_Wireless)
    - Description: Sends thumb stick x-y coordinates through the accelerometer to the receiver. Triggers vibration if tilted too much, signaling that in-game items may be dropped.
-### Knife Controller:
+### <p align="center">Knife Controller:</p>
    - Code Location: [Wireless_Knife_Plate/KnifeWireless](Wireless_Knife_Plate/KnifeWireless)
    - Description: Sends input from the knife controller to the receiver. Includes a pressure sensor for in-game grabbing, two buttons for interactions, and an accelerometer to detect shaking for specific interactions.
 
-## Components and libraries Utilized:
+## <p align="center">Components and libraries Utilized:</p>
 
 - **Vibration Module:** Enhances user feedback by incorporating vibration effects into the gaming experience.
 - **Bluetooth Module:** Facilitates wireless communication between the controller components and the gaming system.
