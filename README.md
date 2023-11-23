@@ -10,23 +10,17 @@ This repository contains the code for a custom controller designed for the game 
 1. **Knife with Buttons:**
    - Equipped with buttons for user interaction.
    - Enables unique actions triggered by doing a chopping motion with the knife.
-     <div align="center">
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/knife.gif" width="500">
-     </div>
 
 2. **Plate Controller:**
    - Responsible for character movement and control within the game.
    - Utilizes an accelerometer to track the tilt of the plate, adding an immersive dimension to the gameplay.
-     <div align="center">
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/plate.gif" width="500">
-     </div>
 
 3. **Receiver:**
    - Serves as a central hub that receives information from both the knife and plate controllers.
    - Enables Bluetooth communication between the controller components and the gaming system.
-     <div align="center">
      <img src="https://github.com/eske4/OvercookedController/blob/main/images/Sugar.jpg" width="500">
-     </div>
 
 ## <p align="center">Controllers showcase:</p>
 Below the interaction with the controllers and their hardware can be seen
