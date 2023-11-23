@@ -1,4 +1,4 @@
-# OvercookedController
+# <p align="center">OvercookedController</p>
 
 This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is split into three distinct parts, each serving a specific function:
 
