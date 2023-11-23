@@ -23,7 +23,9 @@ This repository contains the code for a custom controller designed for the game 
 
 ## <p align="center">Controllers showcase:</p>
 Below the interaction with the controllers and their hardware can be seen
+<div align="center">
 <img src="https://github.com/eske4/OvercookedController/blob/main/images/Info.jpg" width="700">
+</div>
 
 ## <p align="center">Code Organization:</p>
 
