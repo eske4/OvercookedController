@@ -27,14 +27,14 @@ Below the interaction with the controllers and their hardware can be seen
 
 ## <p align="center">Code Organization:</p>
 
-### <p align="center">Receiver:</p>
+### Receiver:
    - Code Location: [Receiver/](Receiver/)
    - Description: Code that takes input from the knife and plate controllers.
 
-### <p align="center">Plate Controller:</p>
+### Plate Controller:
    - Code Location: [Wireless_Knife_Plate/Plate_Wireless](Wireless_Knife_Plate/Plate_Wireless)
    - Description: Sends thumb stick x-y coordinates through the accelerometer to the receiver. Triggers vibration if tilted too much, signaling that in-game items may be dropped.
-### <p align="center">Knife Controller:</p>
+### Knife Controller:
    - Code Location: [Wireless_Knife_Plate/KnifeWireless](Wireless_Knife_Plate/KnifeWireless)
    - Description: Sends input from the knife controller to the receiver. Includes a pressure sensor for in-game grabbing, two buttons for interactions, and an accelerometer to detect shaking for specific interactions.
 
