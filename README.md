@@ -1,6 +1,6 @@
 # OvercookedController
 
-This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is ingeniously split into three distinct parts, each serving a specific function:
+This repository contains the code for a custom controller designed for the game "Overcooked! 2". The controller is split into three distinct parts, each serving a specific function:
 
 <img src="https://github.com/eske4/OvercookedController/blob/main/images/AllComponents.jpg" width="800">
 
@@ -33,7 +33,7 @@ Below the interaction with the controllers and their hardware can be seen
 
 ### Plate Controller:
    - Code Location: [Wireless_Knife_Plate/Plate_Wireless](Wireless_Knife_Plate/Plate_Wireless)
-   - Description: Sends thumbstick x-y coordinates through the accelerometer to the receiver. Triggers vibration if tilted too much, signaling that in-game items may be dropped.
+   - Description: Sends thumb stick x-y coordinates through the accelerometer to the receiver. Triggers vibration if tilted too much, signaling that in-game items may be dropped.
 ### Knife Controller:
    - Code Location: [Wireless_Knife_Plate/KnifeWireless](Wireless_Knife_Plate/KnifeWireless)
    - Description: Sends input from the knife controller to the receiver. Includes a pressure sensor for in-game grabbing, two buttons for interactions, and an accelerometer to detect shaking for specific interactions.
